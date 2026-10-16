@@ -1,0 +1,4 @@
+region,mean_annual_mm,mean_monthly_mm,cv,wettest,driest,peaks,season_pattern
+Kampala,1489.501,124.12508333333334,0.5042108033228303,Nov,Jul,"Apr,Nov",bimodal
+Gulu,1441.794,120.1495,0.5236410229758228,Oct,Feb,"May,Oct",bimodal
+Mbarara,1316.534,109.71116666666667,0.4309911728423901,Apr,Jul,"Apr,Oct",bimodal
