@@ -1,0 +1,22 @@
+{
+  "properties": {
+    "timeseries": [
+      {
+        "time": "2026-10-17T09:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_temperature": 25.0,
+              "wind_speed": 3.1
+            }
+          },
+          "next_1_hours": {
+            "details": {
+              "precipitation_amount": 0.5
+            }
+          }
+        }
+      }
+    ]
+  }
+}

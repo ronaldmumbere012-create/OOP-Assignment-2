@@ -1,0 +1,9 @@
+# Notebook execution and charts
+notebook>=7.0
+nbformat>=5.9
+pandas>=2.0
+matplotlib>=3.7
+
+# Automated and property-based tests
+pytest>=7.4
+hypothesis>=6.90
